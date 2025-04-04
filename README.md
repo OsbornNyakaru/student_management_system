@@ -2,7 +2,7 @@
 
 ## Student Management System
 
-This project is developed as part of the **COC 223 Java Programming** course and serves as a **Student Management System** with two implementations:
+Project for **COSC 223 (OOP)** course and serves as a **Student Management System** with two implementations:
 
 1. **File-based Storage System**  
 2. **Database-based Storage System**  (Yet to fully implement this)
