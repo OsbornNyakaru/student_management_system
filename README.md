@@ -87,12 +87,10 @@ The system manages students, lecturers, courses, and programmes. It provides fun
 
 ---
 ## Author
-👨‍💻 **OSBORN NYAKARU**  in conjunction with the Computer Science group  
+👨‍💻 **OSBORN NYAKARU** and the COSC 223 group as collaborators
 📧 Email: [osbornnyakaru44@gmail.com](mailto:osbornnyakaru44@gmail.com)  
 🔗 GitHub: [https://github.com/OsbornNyakaru](https://github.com/OsbornNyakaru)  
 
----
-### 🚀 *Developed for the award of COC 223 Java Programming*
 
 ---
 
