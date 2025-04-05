@@ -1,6 +1,6 @@
 # COSC 223 GROUP WORK ASSIGNMENT  
 
-## Student Management System
+## Student Management System Project
 
 Project for **COSC 223 (OOP)** course and serves as a **Student Management System** with two implementations:
 
