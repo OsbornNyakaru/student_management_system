@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>e:\COMPUTER SCIENCE\Documents\CS\CS coursework\@Chuka_University\2nd YEAR'S WORK\SEM2YEAR2\UNITS\COSC 223-OOP\Java programs\lms\dist\lms.jar</jar>
+  <outfile>e:\COMPUTER SCIENCE\Documents\CS\CS coursework\@Chuka_University\2nd YEAR'S WORK\SEM2YEAR2\UNITS\COSC 223-OOP\Java programs\lms\dist\studentsystem.exe</outfile>
+  <errTitle>Student Management System Error</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>true</stayAlive>
+  <restartOnCrash>true</restartOnCrash>
+  <manifest></manifest>
+  <icon>e:\COMPUTER SCIENCE\Documents\CS\CS coursework\@Chuka_University\2nd YEAR'S WORK\SEM2YEAR2\UNITS\COSC 223-OOP\Java programs\lms\resources\icon.ico</icon>
+  <jre>
+    <path>C:\Program Files\Java\jdk-17\bin</path>
+    <requiresJdk>true</requiresJdk>
+    <requires64Bit>true</requires64Bit>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
